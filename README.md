@@ -25,11 +25,25 @@ The internship focused heavily on translating raw, unstructured data into action
 <table width="100%">
   <!-- TASK 1 -->
   <tr>
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="80" />
+    <td width="20%" align="center">
+      <img src="https://img.icons8.com/fluency/96/group.png" width="90" alt="Segmentation" />
     </td>
-    <td width="70%">
-      <h3>Task 01: Predictive House Pricing Engine</h3>
+    <td width="80%">
+      <h3>Task 01: K-Means Customer Segmentation</h3>
+      <b>Focus: Unsupervised Learning & Behavioral Analytics</b><br/><br/>
+      Applied unsupervised learning algorithms to segment retail customers based on purchasing behavior. Utilized the <b>Elbow Method</b> to dynamically calculate optimal clustering, allowing for highly targeted business marketing strategies.<br/><br/>
+      <img src="https://img.shields.io/badge/K--Means-013243?style=flat-square" />
+      <img src="https://img.shields.io/badge/Matplotlib-D00000?style=flat-square" />
+    </td>
+  </tr>
+  
+  <!-- TASK 2 -->
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.icons8.com/fluency/96/home.png" width="90" alt="House Prices" />
+    </td>
+    <td width="80%">
+      <h3>Task 02: Predictive House Pricing Engine</h3>
       <b>Focus: Supervised Learning & Advanced EDA</b><br/><br/>
       Engineered a robust linear regression model to accurately forecast real estate pricing. The pipeline includes extensive data cleaning, missing-value treatment, and feature engineering. Evaluated via rigorous <b>RMSE</b> and <b>R² scoring</b>.<br/><br/>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -37,27 +51,13 @@ The internship focused heavily on translating raw, unstructured data into action
       <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat-square" />
     </td>
   </tr>
-  
-  <!-- TASK 2 -->
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Suit%20Levitating.png" width="80" />
-    </td>
-    <td width="70%">
-      <h3>Task 02: K-Means Customer Segmentation</h3>
-      <b>Focus: Unsupervised Learning & Behavioral Analytics</b><br/><br/>
-      Applied unsupervised learning algorithms to segment retail customers based on purchasing behavior. Utilized the <b>Elbow Method</b> to dynamically calculate optimal clustering, allowing for highly targeted business marketing strategies.<br/><br/>
-      <img src="https://img.shields.io/badge/K--Means-013243?style=flat-square" />
-      <img src="https://img.shields.io/badge/Matplotlib-D00000?style=flat-square" />
-    </td>
-  </tr>
 
   <!-- TASK 3 -->
   <tr>
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="80" />
+    <td width="20%" align="center">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="90" alt="CNN" />
     </td>
-    <td width="70%">
+    <td width="80%">
       <h3>Task 03: Neural Image Classifier (CNN)</h3>
       <b>Focus: Deep Learning & Computer Vision</b><br/><br/>
       Designed, trained, and evaluated a Convolutional Neural Network (CNN) to perform complex image classification tasks. Implemented data augmentation and normalization techniques to achieve a <b>90%+ classification accuracy</b>.<br/><br/>
