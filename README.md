@@ -1,61 +1,83 @@
-# 🧠 Machine Learning Internship – Prodigy Infotech
+<!-- PROJECT BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Prodigy%20Infotech%20ML%20Internship&fontSize=50&animation=fadeIn&fontAlignY=38&desc=A%20collection%20of%20predictive%20models%20and%20deep%20learning%20systems%20built%20during%20my%20tenure.&descAlignY=60&descAlign=50" alt="Prodigy Banner" />
+</div>
 
-This repository contains the work I completed during my Machine Learning Engineer Internship at Prodigy Infotech. The internship focused on solving real-world problems using supervised learning, exploratory data analysis, and predictive modeling.
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Machine_Learning_Intern-013243?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duration-July_2025_to_Aug_2025-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-8957e5?style=for-the-badge" />
+</div>
 
-# 📌 Internship Details
+<br/>
 
-Company: Prodigy Infotech
+## 📖 Executive Summary
+This repository serves as a professional portfolio documenting the end-to-end Machine Learning systems I engineered during my internship at **Prodigy Infotech**. 
 
-Role: Machine Learning Intern
+The internship focused heavily on translating raw, unstructured data into actionable business intelligence using a variety of machine learning paradigms—spanning from **supervised regression** and **unsupervised clustering** to **deep learning (CNNs)**.
 
-Duration: July 2025 – August 2025
+---
 
-Mode: Virtual
+## 🚀 The Projects 
 
-Focus Areas: EDA, Regression, ML Algorithms, Data Preprocessing
+*(All project source code and Jupyter Notebooks are located in their respective `PRODIGY_DA_` folders above).*
 
-# ✅ Tasks Completed
+<table width="100%">
+  <!-- TASK 1 -->
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="80" />
+    </td>
+    <td width="70%">
+      <h3>Task 01: Predictive House Pricing Engine</h3>
+      <b>Focus: Supervised Learning & Advanced EDA</b><br/><br/>
+      Engineered a robust linear regression model to accurately forecast real estate pricing. The pipeline includes extensive data cleaning, missing-value treatment, and feature engineering. Evaluated via rigorous <b>RMSE</b> and <b>R² scoring</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat-square" />
+    </td>
+  </tr>
+  
+  <!-- TASK 2 -->
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Suit%20Levitating.png" width="80" />
+    </td>
+    <td width="70%">
+      <h3>Task 02: K-Means Customer Segmentation</h3>
+      <b>Focus: Unsupervised Learning & Behavioral Analytics</b><br/><br/>
+      Applied unsupervised learning algorithms to segment retail customers based on purchasing behavior. Utilized the <b>Elbow Method</b> to dynamically calculate optimal clustering, allowing for highly targeted business marketing strategies.<br/><br/>
+      <img src="https://img.shields.io/badge/K--Means-013243?style=flat-square" />
+      <img src="https://img.shields.io/badge/Matplotlib-D00000?style=flat-square" />
+    </td>
+  </tr>
 
-# 🏡 House Price Prediction
+  <!-- TASK 3 -->
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="80" />
+    </td>
+    <td width="70%">
+      <h3>Task 03: Neural Image Classifier (CNN)</h3>
+      <b>Focus: Deep Learning & Computer Vision</b><br/><br/>
+      Designed, trained, and evaluated a Convolutional Neural Network (CNN) to perform complex image classification tasks. Implemented data augmentation and normalization techniques to achieve a <b>90%+ classification accuracy</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-Performed data cleaning and exploratory data analysis
+---
 
-Built a linear regression model to predict house prices
+## ⚡ Technology Stack
 
-Evaluated model using RMSE and R² score
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,scikit,pandas,github,vscode,jupyter&perline=7" alt="Tech Stack" />
+</div>
 
-Visualized trends using Seaborn and Matplotlib
-
-Tools: Pandas, Scikit-learn, Seaborn, Matplotlib
-
-# 👥 Customer Segmentation using K-Means Clustering
-
-Applied unsupervised learning to segment customers based on purchasing behavior
-
-Used the Elbow Method to determine optimal number of clusters
-
-Visualized clusters in 2D space with color-coded segments
-
-Generated business insights for targeted marketing strategies
-
-Tools: Scikit-learn, Pandas, Matplotlib, Seaborn
-
-# 🧰 Tools & Technologies
-
-Python
-
-Pandas, NumPy
-
-Seaborn, Matplotlib
-
-Scikit-learn
-
-Jupyter Notebook
-
-# 📬 Contact
-
-MD HUZAIFA ANSARI
-
-📧 ansariwadood85@gmail.com
-
-🔗 linkedin.com/in/huzaifa-ansari-830988148
+---
+<div align="center">
+  <b>Built by Md Huzaifa Ansari</b><br>
+  <i>Top 1.98% Kaggle Expert | Persuing Bachelors in CS @ IIT Patna</i><br>
+  <a href="mailto:ansariwadood85@gmail.com">ansariwadood85@gmail.com</a>
+</div>
